@@ -23,3 +23,19 @@ exit
 docker ps -a
 docker rm a9053149c986
 npm list -g --depth=0
+
+VC
+code .
+
+CDS
+cds srv/cat-service.cds
+cds srv/cat-service.cds --to sql
+
+cds deploy --to sqlite:db/my-bookshop.db
+cds deploy
+cds run
+
+cds repl
+cd r
+const cds = require('@sap/cds').connect()
+cds
