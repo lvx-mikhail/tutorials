@@ -39,3 +39,9 @@ cds repl
 cd r
 const cds = require('@sap/cds').connect()
 cds
+cds.ql - query language
+cds.ql.SELECT
+
+cds.run(SELECT.from(cds.entities.Books))
+
+npm run
