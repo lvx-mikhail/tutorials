@@ -47,3 +47,7 @@ cds.run(SELECT.from(cds.entities.Books))
 npm run
 
 SCP dev https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/00823f91779d4d42aa29a498e0535cdf.html
+
+CPI https://flpnwc-b17dd9c60.dispatcher.us1.hana.ondemand.com/sites/CloudPlatform-onboarding#Integration_Services-Display
+
+Best Practices for Enterprise APIs https://www.sap.com/documents/2017/12/ba1141bf-e37c-0010-82c7-eda71af511fa.html
