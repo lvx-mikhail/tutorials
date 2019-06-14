@@ -27,6 +27,8 @@ npm list -g --depth=0
 VC
 code .
 
+npm install //install all from package.json
+
 CDS
 cds srv/cat-service.cds
 cds srv/cat-service.cds --to sql
