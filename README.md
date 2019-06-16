@@ -57,3 +57,5 @@ Best Practices for Enterprise APIs https://www.sap.com/documents/2017/12/ba1141b
 DJ https://blogs.sap.com/2019/01/16/hands-on-sap-dev-with-qmacro-new-live-stream-series/
 
 Book-shop https://developers.sap.com/tutorials/cp-apm-nodejs-create-service.html
+
+API Guidelines https://www.sap.com/documents/2017/12/ba1141bf-e37c-0010-82c7-eda71af511fa.html
