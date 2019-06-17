@@ -59,3 +59,5 @@ DJ https://blogs.sap.com/2019/01/16/hands-on-sap-dev-with-qmacro-new-live-stream
 Book-shop https://developers.sap.com/tutorials/cp-apm-nodejs-create-service.html
 
 API Guidelines https://www.sap.com/documents/2017/12/ba1141bf-e37c-0010-82c7-eda71af511fa.html
+
+SAP Dev Official https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/c2fec62b49fa43b8bd945c85ecc2e5bd.html
